@@ -1,0 +1,12 @@
+C:\Users\akifk\source\repos\MvcKamp\MvcProje\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\akifk\source\repos\MvcKamp\MvcProje\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\akifk\source\repos\MvcKamp\MvcProje\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\akifk\source\repos\MvcKamp\MvcProje\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\akifk\source\repos\MvcKamp\MvcProje\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akifk\source\repos\MvcKamp\MvcProje\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\akifk\source\repos\MvcKamp\MvcProje\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akifk\source\repos\MvcKamp\MvcProje\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\akifk\source\repos\MvcKamp\MvcProje\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\akifk\source\repos\MvcKamp\MvcProje\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\akifk\source\repos\MvcKamp\MvcProje\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\akifk\source\repos\MvcKamp\MvcProje\BusinessLayer\obj\Debug\BusinessLayer.pdb

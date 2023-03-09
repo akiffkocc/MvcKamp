@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "19aBNQnqSheA1FedKqd3cbjl8fXFan4HtWPEVhPPdkO9aqx+a+gOjJgc/Zz4XFHLwWUR8yGFyqxUwBSyuS+Dng==",
+  "dgSpecHash": "SqQPzw6hOObeG7M2dp6v6Po6emjLr7wuaoLy+Qa3wR+kTXi1V0hOryjlMrEtOL1L35AwNyE8lkkR1euCmb3XfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akifk\\source\\repos\\MvcKamp\\MvcProje\\MvcProje\\MvcProje.csproj",
+  "projectFilePath": "C:\\GitProjects\\MvcKamp\\MvcProje\\MvcProje\\MvcProje.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akifk\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\akifk\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

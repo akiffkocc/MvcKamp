@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akifk\\source\\repos\\MvcKamp\\MvcProje\\MvcProje\\MvcProje.csproj": {}
+    "C:\\GitProjects\\MvcKamp\\MvcProje\\MvcProje\\MvcProje.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akifk\\source\\repos\\MvcKamp\\MvcProje\\MvcProje\\MvcProje.csproj": {
+    "C:\\GitProjects\\MvcKamp\\MvcProje\\MvcProje\\MvcProje.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akifk\\source\\repos\\MvcKamp\\MvcProje\\MvcProje\\MvcProje.csproj",
+        "projectUniqueName": "C:\\GitProjects\\MvcKamp\\MvcProje\\MvcProje\\MvcProje.csproj",
         "projectName": "MvcProje",
-        "projectPath": "C:\\Users\\akifk\\source\\repos\\MvcKamp\\MvcProje\\MvcProje\\MvcProje.csproj",
+        "projectPath": "C:\\GitProjects\\MvcKamp\\MvcProje\\MvcProje\\MvcProje.csproj",
         "packagesPath": "C:\\Users\\akifk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akifk\\source\\repos\\MvcKamp\\MvcProje\\MvcProje\\obj\\",
+        "outputPath": "C:\\GitProjects\\MvcKamp\\MvcProje\\MvcProje\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
